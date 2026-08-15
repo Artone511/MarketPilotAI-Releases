@@ -1,14 +1,18 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>MarketPilot_Release_1_0_1</title>
+        <title>MarketPilot_Release_1_0_2</title>
         <item>
-            <title>1.0.1</title>
-            <pubDate>Sat, 15 Aug 2026 12:12:58 -0400</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <title>1.0.2</title>
+            <pubDate>Sat, 15 Aug 2026 16:58:00 -0400</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/Artone511/MarketPilotAI-Releases/main/MarketPilot_1.0.1.zip" length="3745558" type="application/octet-stream"/>
+            <enclosure
+                url="https://raw.githubusercontent.com/Artone511/MarketPilotAI-Releases/main/MarketPilot%20AI%201.0.2%20Build%203.zip"
+                sparkle:edSignature="AsHcJjMCTySwk+/0Ep00/Rqbje0COwtUgNpdbzbZSelry9zNvPMCwjP56dxSjrTJJqAfWxUw5MsGMVLEkkDFSCg=="
+                length="3752669"
+                type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
