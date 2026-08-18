@@ -1,14 +1,17 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>MarketPilot AI 1.0.5 Build 6</title>
+        <title>MarketPilot AI 1.0.6 Build 7</title>
         <item>
-            <title>1.0.5</title>
-            <pubDate>Mon, 17 Aug 2026 16:04:00 -0400</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+            <title>1.0.6</title>
+            <pubDate>Mon, 17 Aug 2026 23:27:00 -0400</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/Artone511/MarketPilotAI-Releases/main/MarketPilot%20AI%201.0.5%20Build%206.zip" length="3746465" type="application/octet-stream" sparkle:edSignature="J4xc0nERCYIMRSfqaJNUwtSP/O6wqs8rPMKzIZSY5YXmDeVzVecVO7lWOvXgVi7dl1EUDAN37SHH0JK3asF0DA=="/>
+            <enclosure url="https://raw.githubusercontent.com/Artone511/MarketPilotAI-Releases/main/MarketPilot%20AI%201.0.6%20Build%207.zip"
+                       sparkle:edSignature="8CFvrBZQi7SStd+TGvNi1pan4RD0iaukkrplv45Izg2lH7aWQKhVJDDmJtlckgWQsFmlfNEVP9Pen6gjZqPAQ=="
+                       length="3744649"
+                       type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
