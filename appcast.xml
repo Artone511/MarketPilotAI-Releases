@@ -1,17 +1,18 @@
-<?xml version="1.0" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<?xml version="1.0" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>MarketPilot AI 1.0.7 Build 8</title>
+        <title>MarketPilotAI</title>
         <item>
-            <title>1.0.7</title>
-            <pubDate>Mon, 17 Aug 2026 23:27:00 -0400</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+            <title>2.0</title>
+            <pubDate>Wed, 19 Aug 2026 10:27:35 -0400</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/Artone511/MarketPilotAI-Releases/main/MarketPilot%20AI%201.0.7%20Build%208.zip"
-                       sparkle:edSignature="i260t6RVrsoA4tmxECtHODemvF3PWwbvwgJLFihLuCRnUkJH6AYUyn0WSlcUsM882zY9tUoTYE1fqO++A4HVBQ=="
-                       length="3746008"
-                       type="application/octet-stream"/>
+            <enclosure url="MarketPilot-AI-2.0-macOS.zip" length="2207432" type="application/octet-stream" sparkle:edSignature="6L+I+jaiY2asKaPLmF2C3UyWe8PlmugpMNQ/usOjLTecU4i+tnsXxh9DUXFIdRPFr97lIhpWFbreZByuRkl/CA=="></enclosure>
         </item>
     </channel>
-</rss>
+</rss><!-- sparkle-signatures:
+edSignature: i8k1fGf3jvphs9G/0CXfCi8yxQEDu05jb36Ho3Mj7O1oNH1lfwh+1j+9Qc6wy/fHz4W1AYS7I1KTwetAqpw+BQ==
+length: 990
+-->
