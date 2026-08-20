@@ -5,14 +5,14 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
         <title>MarketPilot AI</title>
         <item>
             <title>2.0</title>
-            <pubDate>Thu, 20 Aug 2026 07:59:30 -0400</pubDate>
-            <sparkle:version>12</sparkle:version>
+            <pubDate>Thu, 20 Aug 2026 08:46:26 -0400</pubDate>
+            <sparkle:version>13</sparkle:version>
             <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Artone511/MarketPilotAI-Releases/releases/download/v2.0.12/MarketPilot-AI-2.0-macOS.zip" length="3744844" type="application/octet-stream" sparkle:edSignature="GfOMO2MLhmYELwMobM13ssWXz3uFyhNMThWj1fNNVIF+sUeyYDNO+vpg3cLTLOzSPYfTrfdNsvqOwQQJ+z2CDw=="></enclosure>
+            <enclosure url="https://github.com/Artone511/MarketPilotAI-Releases/releases/download/v2.0.13/MarketPilot-AI-2.0-macOS.zip" length="3815783" type="application/octet-stream" sparkle:edSignature="aq71E+eAfUAXRuhDfJ/o0h3GYYM6jqHvAfmcX6i+4/zlqnLlqmIUldFowBlHmtoTdwlK3tWR9J04oVGSOhoRAw=="></enclosure>
         </item>
     </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 7JMKOnZnyKJTQaD+O0KC0/HRVN7jnXaSvOjwLfVvm/9EBtrMhyRy1pI+SMfEQDE/mw3FOzTRC7uAlZmBB4LFAQ==
+edSignature: mwrNyqDIPyCvPpoN7Pg/+P3Z+j1e/BK06hdiztqyBow/fC8gk3Qqh28juXggzlp1KxQL/eQTDyndHpxnt7S/AQ==
 length: 1070
 -->
