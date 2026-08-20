@@ -1,0 +1,9 @@
+{
+  "version": "2.0",
+  "build": 11,
+  "releaseDate": "2026-08-20T02:41:29Z",
+  "releaseNotes": "MarketPilot AI 2.0 Build 11 restores the complete production application and preserves existing MarketPilot portfolio, retirement, dividend, Investment DNA, settings, and other persistent user data.",
+  "minimumMacOSVersion": "14.0",
+  "releaseAssetName": "MarketPilot-AI-2.0-macOS.zip",
+  "sha256": "fae3807844e90909ae0b90953afb0c0d9885576dc19c7f63f6c1ff276d56dc4c"
+}
