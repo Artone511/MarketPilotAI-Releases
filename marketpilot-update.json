@@ -1,9 +1,9 @@
 {
   "version": "2.0",
-  "build": 13,
-  "releaseDate": "2026-08-20T12:46:26Z",
-  "releaseNotes": "MarketPilot AI 2.0 Build 13 preserves the full application and fixes Sparkle Install and Relaunch by presenting Update Center as a normal non-modal navigation destination. No portfolio, retirement, Investment DNA, AI Advisor, What-If, persistence, saved-data structure, or user data was changed.",
+  "build": 14,
   "minimumMacOSVersion": "14.0",
   "releaseAssetName": "MarketPilot-AI-2.0-macOS.zip",
-  "sha256": "664abe097d4d1bd484e21eb642dc9fa70acb443b86a8de5b280ed0fec6de403c"
+  "releaseDate": "2026-08-20T16:34:46Z",
+  "releaseNotes": "MarketPilot AI 2.0 Build 14 preserves the full application and includes the corrected Sparkle sandbox/XPC integration, single persistent updater-controller lifecycle, non-modal Update Center, and install-on-quit workflow. No portfolio, retirement, Investment DNA, AI Advisor, What-If, persistence, saved-data structure, or user data was changed.",
+  "sha256": "77d09e5b53c1bf853ae86bf576d7fb8577071294ae27feed446971587cb64002"
 }
